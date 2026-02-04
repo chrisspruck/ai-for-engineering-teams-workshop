@@ -33,5 +33,10 @@
         "update.mode": "manual"
       }
     }
+  },
+  "secrets": {
+    "ANTHROPIC_API_KEY": {
+      "description": "Anthropic API key (provided by instructor)"
+    }
   }
 }
